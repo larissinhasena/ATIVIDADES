@@ -14,3 +14,15 @@ escreval ("digite um numero")
 leia (mundo)
 escreval (" numero digitado e : " , mundo , "o dobro e : " , mundo*2)
 escreval (" a terça parte e : " , mundo/3)
+
+
+
+
+
+
+
+
+
+
+
+Fimalgoritmo
